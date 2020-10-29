@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-6554c": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-6554c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-6554c"
+  }
+}
