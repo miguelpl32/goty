@@ -3,7 +3,7 @@
 Proyecto realizado en [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
 ## Objetivo
-+ Conexion Firebase
++ Conexión Firebase
 + Actualización de los datos en tiempo real.
 + Creación de gráfica
 
